@@ -5,7 +5,7 @@
   <br>
   🎓 I'm a 1st year Computer Science student at the University of Southampton.
   <br>
-  🌱 Currently learning more about application and web development.
+  🌱 Currently learning more about application & web development.
 </p>
 
 <h3 align="center">🎯 My Tech Stack and Skills</h3>
