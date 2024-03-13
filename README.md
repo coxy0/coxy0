@@ -5,14 +5,14 @@
   <br>
   🎓 I'm a 1st year Computer Science student at the University of Southampton.
   <br>
-  🌱 Currently learning more about web development, data and AI.
+  🌱 I'm interesting in web development, data science and AI.
 </p>
 
-<h3 align="center">🎯 My Languages / Skills</h3>
+<h3 align="center">🎯 My Languages & Skills</h3>
 <p align="center">
   💻 Python - Java - C
   <br>
-  🕸️ HTML - Javascript + Typescript - CSS - React
+  🕸️ HTML - Javascript + Typescript - CSS (+ Tailwind) - React
   <br>
   🧠 LaTeX - Markdown
 </p>
