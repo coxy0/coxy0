@@ -5,7 +5,7 @@
   <br>
   🎓 I'm a 1st year Computer Science student at the University of Southampton.
   <br>
-  🌱 I'm interesting in web development, data science and AI.
+  🌱 I'm interested in web development, data science and AI.
 </p>
 
 <h3 align="center">🎯 My Languages & Skills</h3>
