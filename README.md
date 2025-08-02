@@ -9,6 +9,7 @@
 ```javascript
 const oli = {
   code: [Javascript, Typescript, HTML, CSS, Dart, Java, Python, SQL],
-  tools: [Flutter, FlutterFlow, MongoDB, Docker, Firestore, React, Node, Tailwind],
+  tools: [Flutter, FlutterFlow, MongoDB, Docker,
+          Firestore, React, Node, Tailwind],
 }
 ```
